@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SynaLampProto</string>
+    <string name="discover_devices">Discover devices</string>
 </resources>
